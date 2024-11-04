@@ -8,3 +8,10 @@
 - **Pedro Gomes Fernandes** - 551480 - 2TDSPM
 - **Vinícius de Araújo Camargo** - 99494 - 2TDSP
 
+## Link repositorio
+
+https://github.com/gbalttazar/IOT-SPRINT4
+
+## Link video 
+
+https://youtu.be/lJmf5b2HWdw
